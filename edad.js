@@ -1,1 +1,1 @@
-let = edad = 25
+let  edad = 25;
